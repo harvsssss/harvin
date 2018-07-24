@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Thunder bird",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/thunder.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.609159,
+    "lng": 120.286429
   }
 ]
