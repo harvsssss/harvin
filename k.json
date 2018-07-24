@@ -38,11 +38,11 @@
   {
     "id": 210,
     "name": "grape farm",
-    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/j.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/g.jpg",
     "price": 135,
     "priceCurrency": "PESO",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.461110,
+    "lng": 120.333913
   },
   {
     "id": 211,
