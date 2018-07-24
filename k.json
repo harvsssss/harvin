@@ -1,13 +1,4 @@
 [
-  {
-    "id": 111,
-    "name": "City Hall",
-    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/city.jpg",
-    "price": FREE,
-    "priceCurrency": "PESO",
-    "lat": 16.619499,
-    "lng": 120.332480
-  },
    {
     "id": 145,
     "name": "macho temple",
