@@ -28,8 +28,8 @@
   },
   {
     "id": 205,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/T.jpg",
+    "name": "grape farm",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/grape.jpg",
     "price": 115,
     "priceCurrency": "PESO",
     "lat": 48.881840,
