@@ -1,9 +1,9 @@
 [
   {
-    "id": 145,
+    "id": 111,
     "name": "City Hall",
     "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/city.jpg",
-    "price": 90,
+    "price": FREE,
     "priceCurrency": "PESO",
     "lat": 16.619499,
     "lng": 120.332480
