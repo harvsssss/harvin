@@ -5,8 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/mach.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 16.532708,
-    "lng": 120.329399
+    "lat": 16.621154,
+    "lng": 120.317432
   },
   {
     "id": 148,
@@ -14,22 +14,22 @@
     "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/asd.jpg",
     "price": 200,
     "priceCurrency": "PESO",
-    "lat": 16.533417,
-    "lng": 120.328694
+    "lat": 16.847121,
+    "lng": 120.351404
   },
   {
     "id": 201,
-    "name": "Gerry`s grill la union",
-    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/gerrys.jpg",
+    "name": "Baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/bal.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 16.590576,
-    "lng": 120.323370
+    "lat": 16.856737,
+    "lng": 120.372824
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Tangadan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/T.jpg",
     "price": 115,
     "priceCurrency": "PESO",
     "lat": 48.881840,
