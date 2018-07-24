@@ -1,17 +1,17 @@
 [
   {
     "id": 145,
-    "name": "macho temple",
-    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/mach.jpg",
+    "name": "City Hall",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/city.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 16.621154,
-    "lng": 120.317432
+    "lat": 16.619499,
+    "lng": 120.332480
   },
    {
     "id": 145,
-    "name": "City Government of San Fernando La Union",
-    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/city.jpg",
+    "name": "macho temple",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/mach.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.621154,
