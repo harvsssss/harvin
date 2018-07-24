@@ -8,6 +8,15 @@
     "lat": 16.621154,
     "lng": 120.317432
   },
+   {
+    "id": 145,
+    "name": "City Government of San Fernando La Union",
+    "imageUrl": "https://raw.githubusercontent.com/harvsssss/harvin/master/city.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 16.621154,
+    "lng": 120.317432
+  },
   {
     "id": 148,
     "name": "biak na bato",
